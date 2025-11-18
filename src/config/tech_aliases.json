@@ -1,0 +1,12 @@
+{
+  "SQL": [
+    "SQL Server", "MSSQL", "MS SQL", "Microsoft SQL Server",
+    "PostgreSQL", "Postgres", "Postgre SQL",
+    "MySQL", "MariaDB",
+    "OracleDB", "Oracle Database", "PL/SQL"
+  ],
+  "JavaScript": ["JS", "ECMAScript"],
+  "ASP.NET": ["ASP.NET Core", "Asp.Net"],
+  "C#": ["CSharp", "C Sharp"],
+  "UX": ["UI/UX", "UX/UI", "UI UX"]
+}

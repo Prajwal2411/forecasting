@@ -1,0 +1,23 @@
+
+Prajwal Bhosale
+Oct 24, 2025, 10:28 AM
+to me
+
+Full Stack Developer – .NET Core | Microservices | Azure Cloud
+=====================================
+Total Experience – 9+ Years,
+Asp.net, MVC, Ado.net, C#- 9+ Years,
+UI- JavaScript, CSS, HTML , AJAX - 5+ Years,/ Angular CLI - 2.6 Years,  
+.NET Core, Entity Framework Core - 6+ Years,
+Microservices (CQRS, Event-Driven, Saga) – 4 Years,
+Web API / REST APIs – 6+ Years,
+SQL Server - 9+ Years,
+PostgreSQL / Oracle Database – 3+ Years,
+Tools- Swagger, Postman - 5+
+Azure Service Bus – 2.6  Years,
+Kubernetes – 2.6 Years
+Azure Services – Key Vault, Functions, Storage, App Service, Container Registry, App Insights – 2.6 Years
+CI/CD Pipelines (Azure DevOps, GitHub Actions, Jenkins) – 2.6 Years
+Caching (In-Memory, Redis, CDN) – 4 Years
+Design & Architecture (Clean Architecture, SOLID Principal , Repository, Unit of Work, High-Level Design (HLD) & Low-Level Design (LLD)/ High-Level Design – 4 Years 
+Agile Tools (JIRA, Scrum, Kanban) – 6 Years

@@ -1,0 +1,61 @@
+project_id,project_name,client_domain,region,start_date,end_date_planned,budget_total,contract_type
+5000,Retail Solution 5000,Retail,NA,2026-06-17,2027-08-13,3774654.14,Fixed
+5001,Energy Solution 5001,Energy,APAC,2025-07-15,2026-03-08,2084433.84,Fixed
+5002,Manufacturing Solution 5002,Manufacturing,EU,2024-06-16,2027-05-04,1332019.47,Retainer
+5003,Insurance Solution 5003,Insurance,NA,2026-07-19,2028-10-20,2278934.69,Retainer
+5004,Healthcare Solution 5004,Healthcare,NA,2026-10-01,2027-04-08,2596321.25,Retainer
+5005,Healthcare Solution 5005,Healthcare,NA,2023-02-15,2025-03-25,3252103.56,Fixed
+5006,Energy Solution 5006,Energy,APAC,2025-02-06,2027-07-22,3436077.02,Retainer
+5007,Public Sector Solution 5007,Public Sector,EU,2025-10-02,2027-08-08,1121450.83,Fixed
+5008,Manufacturing Solution 5008,Manufacturing,NA,2026-05-19,2028-08-13,4436687.07,Fixed
+5009,Manufacturing Solution 5009,Manufacturing,India,2025-12-28,2028-11-18,1619864.32,Retainer
+5010,Healthcare Solution 5010,Healthcare,NA,2026-08-22,2029-01-30,1901256.84,Retainer
+5011,FinTech Solution 5011,FinTech,APAC,2024-04-02,2027-03-27,1574450.81,Retainer
+5012,FinTech Solution 5012,FinTech,NA,2023-09-29,2024-12-23,950292.49,Fixed
+5013,Public Sector Solution 5013,Public Sector,India,2025-10-10,2026-07-05,4920720.5,Fixed
+5014,Retail Solution 5014,Retail,EU,2024-06-07,2026-09-17,3253232.36,Retainer
+5015,FinTech Solution 5015,FinTech,India,2025-07-13,2027-08-06,799661.66,Fixed
+5016,Retail Solution 5016,Retail,EU,2026-03-03,2028-10-24,3570074.48,T&M
+5017,Retail Solution 5017,Retail,India,2023-09-15,2026-03-08,1379181.11,Fixed
+5018,Manufacturing Solution 5018,Manufacturing,EU,2024-12-27,2026-08-23,2221869.18,Retainer
+5019,Healthcare Solution 5019,Healthcare,NA,2023-02-25,2024-05-22,4894305.7,Fixed
+5020,Manufacturing Solution 5020,Manufacturing,NA,2023-05-12,2023-12-02,3007160.33,Fixed
+5021,Manufacturing Solution 5021,Manufacturing,India,2026-11-26,2028-02-25,4645178.5,Retainer
+5022,Public Sector Solution 5022,Public Sector,EU,2024-05-13,2026-04-09,858862.62,Retainer
+5023,Retail Solution 5023,Retail,NA,2023-05-14,2025-12-11,784316.7,T&M
+5024,Manufacturing Solution 5024,Manufacturing,EU,2026-11-09,2027-11-09,814123.15,T&M
+5025,FinTech Solution 5025,FinTech,NA,2024-11-09,2026-11-08,3207093.49,T&M
+5026,Healthcare Solution 5026,Healthcare,EU,2026-03-07,2028-09-15,997179.54,T&M
+5027,Retail Solution 5027,Retail,APAC,2023-01-09,2023-12-31,3477350.04,Retainer
+5028,Insurance Solution 5028,Insurance,NA,2024-10-02,2026-09-17,3719020.23,Fixed
+5029,FinTech Solution 5029,FinTech,India,2023-07-06,2025-05-13,3254581.82,Fixed
+5030,Healthcare Solution 5030,Healthcare,EU,2026-09-02,2028-05-29,2940064.89,Fixed
+5031,Manufacturing Solution 5031,Manufacturing,EU,2024-09-05,2025-06-13,3367716.34,Retainer
+5032,Manufacturing Solution 5032,Manufacturing,EU,2023-05-06,2024-06-05,1405237.56,T&M
+5033,Healthcare Solution 5033,Healthcare,EU,2026-09-14,2028-07-14,1514316.52,T&M
+5034,Energy Solution 5034,Energy,EU,2026-07-31,2027-05-07,4082394.95,T&M
+5035,Manufacturing Solution 5035,Manufacturing,India,2024-06-19,2025-12-24,1781757.33,Retainer
+5036,Manufacturing Solution 5036,Manufacturing,EU,2026-11-18,2029-02-09,4429172.21,Fixed
+5037,Retail Solution 5037,Retail,APAC,2024-03-19,2026-04-02,4848165.4,T&M
+5038,Public Sector Solution 5038,Public Sector,EU,2023-08-16,2025-03-29,2646362.45,Retainer
+5039,Energy Solution 5039,Energy,India,2024-06-29,2025-04-15,1608051.29,T&M
+5040,Healthcare Solution 5040,Healthcare,India,2025-01-02,2026-10-25,3032110.87,Retainer
+5041,Manufacturing Solution 5041,Manufacturing,EU,2025-07-04,2027-05-03,4604977.6,Retainer
+5042,Healthcare Solution 5042,Healthcare,NA,2026-11-26,2027-12-26,2820100.22,Fixed
+5043,Manufacturing Solution 5043,Manufacturing,EU,2026-11-14,2028-10-22,3649883.27,T&M
+5044,Healthcare Solution 5044,Healthcare,NA,2024-04-18,2025-09-25,4779007.6,T&M
+5045,Manufacturing Solution 5045,Manufacturing,NA,2024-08-06,2025-07-23,1524226.34,Fixed
+5046,Public Sector Solution 5046,Public Sector,APAC,2024-11-15,2027-10-26,3266756.82,Retainer
+5047,Energy Solution 5047,Energy,EU,2026-10-18,2028-02-02,4186784.17,T&M
+5048,Public Sector Solution 5048,Public Sector,India,2026-12-29,2029-02-06,3575032.05,Fixed
+5049,Public Sector Solution 5049,Public Sector,APAC,2024-09-04,2025-05-30,4921563.68,Retainer
+5050,Energy Solution 5050,Energy,India,2025-10-07,2027-01-18,3103446.27,T&M
+5051,Manufacturing Solution 5051,Manufacturing,India,2023-10-15,2026-02-27,1831097.77,T&M
+5052,FinTech Solution 5052,FinTech,EU,2024-01-01,2025-11-09,4474157.54,Retainer
+5053,Insurance Solution 5053,Insurance,India,2024-04-01,2026-02-24,1296475.74,Fixed
+5054,Insurance Solution 5054,Insurance,APAC,2025-03-05,2028-01-12,3370567.62,Retainer
+5055,Public Sector Solution 5055,Public Sector,India,2025-10-30,2027-08-09,637674.91,Retainer
+5056,Insurance Solution 5056,Insurance,EU,2026-12-23,2029-05-07,4940696.99,Fixed
+5057,Retail Solution 5057,Retail,APAC,2024-12-01,2027-08-20,1636370.76,T&M
+5058,Insurance Solution 5058,Insurance,India,2023-06-30,2025-04-23,1131255.85,T&M
+5059,Manufacturing Solution 5059,Manufacturing,APAC,2024-09-08,2025-12-11,3214069.37,Retainer

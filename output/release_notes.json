@@ -1,0 +1,177 @@
+[
+  {
+    "employee_id": 1236,
+    "release_date": "2024-12-15",
+    "role": "PM-Senior",
+    "tech_stack": "QA-Automation,GCP,Kubernetes,Kafka,Java,Databricks",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1105,
+    "release_date": "2024-12-23",
+    "role": "DataEng-Senior",
+    "tech_stack": "QA-Automation,GCP,Kubernetes,Kafka,Java,Databricks",
+    "notice_period_days": 30
+  },
+  {
+    "employee_id": 1110,
+    "release_date": "2024-12-22",
+    "role": "DataEng-Senior",
+    "tech_stack": "QA-Automation,GCP,Kubernetes,Kafka,Java,Databricks",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1016,
+    "release_date": "2024-12-16",
+    "role": "DataEng-Senior",
+    "tech_stack": "Docker,SQL,Snowflake,Spark,Node.js,Kafka,Java",
+    "notice_period_days": 60
+  },
+  {
+    "employee_id": 1158,
+    "release_date": "2025-01-06",
+    "role": "DataEng-Mid",
+    "tech_stack": "Docker,SQL,Snowflake,Spark,Node.js,Kafka,Java",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1244,
+    "release_date": "2024-12-16",
+    "role": "DataEng-Senior",
+    "tech_stack": "Docker,SQL,Snowflake,Spark,Node.js,Kafka,Java",
+    "notice_period_days": 60
+  },
+  {
+    "employee_id": 1225,
+    "release_date": "2025-01-15",
+    "role": "PM-Senior",
+    "tech_stack": "SQL,Terraform,React,AWS,Kafka,Java",
+    "notice_period_days": 30
+  },
+  {
+    "employee_id": 1049,
+    "release_date": "2024-12-27",
+    "role": "DataSci-Lead",
+    "tech_stack": "SQL,Terraform,React,AWS,Kafka,Java",
+    "notice_period_days": 30
+  },
+  {
+    "employee_id": 1194,
+    "release_date": "2024-12-05",
+    "role": "Backend-Senior",
+    "tech_stack": "SQL,Terraform,React,AWS,Kafka,Java",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1104,
+    "release_date": "2025-01-13",
+    "role": "DevOps-Mid",
+    "tech_stack": "SQL,Terraform,React,AWS,Kafka,Java",
+    "notice_period_days": 30
+  },
+  {
+    "employee_id": 1085,
+    "release_date": "2024-12-13",
+    "role": "DataEng-Mid",
+    "tech_stack": "SQL,Terraform,React,AWS,Kafka,Java",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1211,
+    "release_date": "2025-01-29",
+    "role": "Architect-Lead",
+    "tech_stack": "Snowflake,MLOps,Node.js,React,AWS",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1035,
+    "release_date": "2025-01-04",
+    "role": "FullStack-Senior",
+    "tech_stack": "GCP,Docker,Kubernetes,Node.js,Kafka,Java",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1256,
+    "release_date": "2024-12-22",
+    "role": "QA-Mid",
+    "tech_stack": "GCP,Docker,Kubernetes,Node.js,Kafka,Java",
+    "notice_period_days": 60
+  },
+  {
+    "employee_id": 1094,
+    "release_date": "2025-01-12",
+    "role": "QA-Mid",
+    "tech_stack": "GCP,Docker,Kubernetes,Node.js,Kafka,Java",
+    "notice_period_days": 60
+  },
+  {
+    "employee_id": 1193,
+    "release_date": "2025-01-07",
+    "role": "QA-Mid",
+    "tech_stack": "GCP,Docker,Kubernetes,Node.js,Kafka,Java",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1056,
+    "release_date": "2025-01-07",
+    "role": "DataEng-Lead",
+    "tech_stack": "GCP,Docker,Kubernetes,Node.js,Kafka,Java",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1108,
+    "release_date": "2025-01-14",
+    "role": "PM-Senior",
+    "tech_stack": "SQL,Tableau/PowerBI,MLOps,React,AWS,Java",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1057,
+    "release_date": "2025-01-29",
+    "role": "Architect-Lead",
+    "tech_stack": "SQL,Tableau/PowerBI,MLOps,React,AWS,Java",
+    "notice_period_days": 60
+  },
+  {
+    "employee_id": 1072,
+    "release_date": "2025-01-29",
+    "role": "FullStack-Lead",
+    "tech_stack": "SQL,Tableau/PowerBI,MLOps,React,AWS,Java",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1199,
+    "release_date": "2024-12-27",
+    "role": "Frontend-Lead",
+    "tech_stack": "SQL,Tableau/PowerBI,MLOps,React,AWS,Java",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1004,
+    "release_date": "2025-01-15",
+    "role": "DataEng-Mid",
+    "tech_stack": "SQL,Tableau/PowerBI,MLOps,React,AWS,Java",
+    "notice_period_days": 90
+  },
+  {
+    "employee_id": 1075,
+    "release_date": "2025-01-14",
+    "role": "QA-Senior",
+    "tech_stack": "SQL,Tableau/PowerBI,MLOps,React,AWS,Java",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1039,
+    "release_date": "2025-01-21",
+    "role": "DevOps-Senior",
+    "tech_stack": "SQL,Azure,Snowflake,Node.js,React,AWS",
+    "notice_period_days": 45
+  },
+  {
+    "employee_id": 1080,
+    "release_date": "2025-01-28",
+    "role": "QA-Senior",
+    "tech_stack": ".NET,SQL,Azure,Snowflake,Angular,DataScientist,Kubernetes",
+    "notice_period_days": 90
+  }
+]

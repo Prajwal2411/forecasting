@@ -1,0 +1,72 @@
+hiring_rule:
+  Product Manager:
+    percentage: 5
+    exp_split:
+      junior: 0
+      mid: 40
+      senior: 60
+
+  Solution Architect / Tech Lead:
+    percentage: 8
+    exp_split:
+      junior: 0
+      mid: 30
+      senior: 70
+
+  Backend Engineer:
+    percentage: 30
+    exp_split:
+      junior: 20
+      mid: 50
+      senior: 30
+
+  Frontend / Full-Stack Engineer:
+    percentage: 10
+    exp_split:
+      junior: 25
+      mid: 50
+      senior: 25
+
+  Data Engineer / Analytics Engineer:
+    percentage: 10
+    exp_split:
+      junior: 20
+      mid: 50
+      senior: 30
+
+  Data Scientist / ML Engineer:
+    percentage: 10
+    exp_split:
+      junior: 15
+      mid: 50
+      senior: 35
+
+  DevOps / Cloud / MLOps Engineer:
+    percentage: 10
+    exp_split:
+      junior: 10
+      mid: 50
+      senior: 40
+
+  QA / Test Automation Engineer:
+    percentage: 12
+    exp_split:
+      junior: 30
+      mid: 50
+      senior: 20
+
+  UX / UI Designer:
+    percentage: 3
+    exp_split:
+      junior: 20
+      mid: 40
+      senior: 40
+
+  Business Analyst / Domain SME:
+    percentage: 2
+    exp_split:
+      junior: 0
+      mid: 40
+      senior: 60
+
+tolerance_percent: 3

@@ -1,0 +1,201 @@
+employee_id,name,role_family,level,experience_years,primary_tech,secondary_techs,base_location,cost_to_company_per_year
+1000,Stacey Joyce,UI/UX,Junior,0.9,CSS,"Terraform,Business Objects,HTML,architecture,Java",India,29340.9
+1001,Zachary Frederick,QA,Mid,4.5,cypress,"MLOps,Ado.net,CSS,architecture",EU,80858.7
+1002,Morgan Navarro,UI/UX,Principal,12.4,figma,"QA-Automation,Ado.net,Docker,React",APAC,177372.25
+1003,Kevin Nichols,Frontend,Junior,1.5,React,"Lambda,Node.js,cicd,Perl,Snowflake",India,29114.29
+1004,Laura Murphy,Support,Senior,8.2,documentation,"Ado.net,Node.js,DataScientist,Business Objects,CSS",EU,102744.92
+1005,Vicki Obrien,Support,Mid,3.0,SQL,"Angular,TypeScript,C#",EU,90222.01
+1006,John Rodriguez,PM,Lead,8.6,domain,"S3,pyspark,Angular",India,146637.15
+1007,Carmen Delacruz,PM,Senior,8.7,domain,"pytest,django,product",EU,104213.46
+1008,Derrick Guerra,DataSci,Junior,0.8,SQL,"domain,IICS,EC2",India,36519.11
+1009,Kevin Rodriguez,MLE,Lead,8.8,MLOps,"Control-M,requirements,ux",EU,175534.27
+1010,Nathan Brewer,DataSci,Junior,1.5,SQL,"SQL Server,PL/SQL,Databricks,ml",NA,45805.46
+1011,Michael Lambert,Frontend,Junior,1.3,TypeScript,"Ado.net,ml,QA-Automation,cicd",EU,44621.49
+1012,Mary Morales,Frontend,Principal,15.4,React,"SQL,Business Objects,django",APAC,171214.42
+1013,Zachary Ferguson,Backend,Mid,3.8,OracleDB,"Tableau/PowerBI,tensorflow,Business Objects",India,52960.17
+1014,Mark Jordan,MLE,Mid,4.3,pyspark,"django,GCP,DataScientist,Perl",EU,86076.16
+1015,Jennifer Olson,DataSci,Principal,17.6,ml,"Docker,domain,azuredevops,DevOps",EU,256806.97
+1016,Jeremy Meyer,DataSci,Junior,0.8,SQL,"selenium,Control-M,springboot",APAC,29599.02
+1017,Kenneth Carter,UI/UX,Senior,5.8,HTML,"tensorflow,Azure,k8s",India,70050.33
+1018,Vanessa Williams,DataSci,Junior,0.6,pyspark,"ui,cicd,ASP.NET,figma",EU,34663.4
+1019,Alyssa Fields,DataSci,Principal,15.5,SQL,"OracleDB,cicd,django,product",NA,275691.92
+1020,Carl Williams,Backend,Principal,15.9,OracleDB,"ux,Business Objects,jmeter,sklearn,IICS",APAC,180150.9
+1021,Bruce Howell,DataSci,Mid,3.5,Python,"architecture,Snowflake,Airflow,DataScientist",APAC,64662.73
+1022,James Oconnor,Architect,Junior,1.2,Terraform,"Airflow,C#,Kubernetes,SQL",EU,47125.51
+1023,Whitney Hicks,FullStack,Principal,17.9,TypeScript,"Kubernetes,azuredevops,product",EU,279849.96
+1024,Christopher Krause,Architect,Junior,1.0,AWS,"React,Azure,DataEngineer,Business Objects,MLOps",APAC,26116.61
+1025,Christopher Gibson,Architect,Senior,5.7,GCP,"Java,Ado.net,Kubernetes,cicd,JavaScript",India,94415.4
+1026,Theresa Fisher,Frontend,Principal,15.1,TypeScript,"pyspark,azuredevops,Airflow,k8s,GCP",EU,216964.28
+1027,Lauren Bass,PM,Senior,7.3,product,"DevOps,Airflow,Perl",APAC,103048.24
+1028,Annette Dalton,DataSci,Lead,10.6,dl,"Kafka,IICS,jmeter,Ado.net,Perl",APAC,134055.41
+1029,Jason Rivera,Mobile,Lead,13.7,React,"HTML,DataScientist,Databricks",EU,154686.29
+1030,Arthur Jones,QA,Principal,18.7,QA-Manual,"TypeScript,domain,ux,.NET",India,144024.32
+1031,Sharon Wise,QA,Senior,7.9,cypress,"nlp,pytest,Databricks,ASP.NET,DevOps",India,92320.28
+1032,Robert Acevedo,Backend,Mid,3.1,Python,"ml,nlp,Control-M,.NET,Snowflake",NA,72418.1
+1033,Keith Delacruz,QA,Junior,1.2,QA-Automation,"Python,IICS,cypress,C#,django",India,25766.78
+1034,Nathaniel Walters,Architect,Mid,3.7,Terraform,"Python,OracleDB,MVC,Airflow,Spark",EU,80949.62
+1035,Shawn Adams,DataSci,Lead,9.1,SQL,"domain,Kubernetes,Angular",NA,207707.21
+1036,Chelsea Burke,Support,Senior,7.0,OracleDB,"selenium,ui,pytorch,Azure,GCP",NA,193849.62
+1037,Manuel Murphy,Mobile,Mid,3.9,React,"Docker,design,CSS",NA,77171.05
+1038,Caroline Smith,DataSci,Principal,17.7,Python,"documentation,.NET,Terraform,DevOps,HTML",NA,273119.71
+1039,Christopher Smith,Mobile,Lead,11.9,Java,"PL/SQL,pytorch,Spark,DevOps",NA,198999.39
+1040,James Taylor,Backend,Mid,4.2,springboot,"django,pyspark,Lambda",APAC,62091.98
+1041,Courtney Mendez,DevOps,Mid,3.7,Terraform,"vue,azuredevops,Node.js",NA,119109.3
+1042,Lauren Edwards,Mobile,Lead,10.7,Java,"Python,vue,QA-Manual,django,QA-Automation",NA,266059.16
+1043,Bruce Carter,Frontend,Junior,1.4,vue,"Ado.net,pytest,selenium,.NET,domain",APAC,33501.82
+1044,Nathaniel Williams,QA,Principal,18.3,SQL,"Airflow,Perl,Docker,EC2,AJAX",EU,235658.77
+1045,James Mcintyre,DevOps,Junior,0.7,DevOps,"Terraform,architecture,DataScientist",India,28115.43
+1046,Jennifer Bennett,Architect,Principal,17.7,domain,"Lambda,S3,Perl,MVC",APAC,156691.32
+1047,Maria Williams,DataSci,Principal,13.8,ml,"Java,azuredevops,ui,MVC",NA,278329.41
+1048,John Carr,Mobile,Mid,3.2,React,"Perl,.NET,vue,sketch,DevOps",NA,78503.03
+1049,Sierra Walker,QA,Lead,14.8,QA-Automation,"EC2,Python,JavaScript,ui",India,111496.9
+1050,Tina Olson,Architect,Lead,12.6,cloud,"sklearn,DataScientist,dl,Databricks,Angular",India,112283.41
+1051,Adam Martinez,Mobile,Junior,0.5,TypeScript,"tensorflow,Spark,pytorch",EU,34842.78
+1052,Sara Mendez,DevOps,Mid,2.8,azuredevops,"domain,TypeScript,tensorflow,dl,OracleDB",EU,88157.42
+1053,Jonathan Rhodes,MLE,Lead,12.5,dl,"sklearn,cloud,pytorch,Docker,requirements",APAC,129978.16
+1054,Teresa Bell,DataEng,Junior,1.9,Kafka,"GCP,PostgreSQL,.NET,QA-Manual",APAC,42759.24
+1055,Cole King,DevOps,Junior,1.0,AWS,"documentation,MVC,Python,nlp",EU,35200.34
+1056,Joseph Sweeney,Mobile,Mid,4.9,Angular,"PostgreSQL,QA-Manual,C#",India,40883.33
+1057,Zachary Adams,MLE,Lead,8.7,pytorch,"figma,AJAX,Python",APAC,111526.55
+1058,Logan Diaz,FullStack,Senior,8.6,Python,"Kubernetes,MLOps,Control-M,sklearn,tensorflow",EU,141711.25
+1059,Anthony Alvarado,DevOps,Principal,15.3,Terraform,"cloud,IICS,springboot,DataEngineer",India,160265.84
+1060,Johnny Santana,Frontend,Junior,1.3,CSS,"pytorch,jmeter,QA-Manual,Snowflake,PL/SQL",APAC,38791.83
+1061,Melissa Smith,Architect,Junior,1.5,DevOps,"HTML,SQL Server,TypeScript,Java",EU,42493.21
+1062,Jacqueline Howe,Mobile,Mid,3.4,Angular,"azuredevops,springboot,IICS,Spark,MLOps",EU,77952.25
+1063,Wesley Burke,Mobile,Mid,2.6,TypeScript,"Node.js,ux,.NET,React",NA,121060.46
+1064,Amber White,PM,Senior,5.8,domain,"S3,GCP,figma",India,102964.77
+1065,Monique Green,Support,Junior,0.6,SQL,"azuredevops,vue,pytorch,ui",EU,48440.76
+1066,Christine Roberts,Architect,Mid,3.4,Azure,"PL/SQL,selenium,OracleDB,AWS",NA,122408.7
+1067,Carrie Patton,DevOps,Lead,12.9,Kubernetes,"QA-Manual,dl,jmeter,Kafka",EU,158285.23
+1068,Susan Brown,PM,Mid,2.9,requirements,"Node.js,ui,DataEngineer,React,sklearn",APAC,48828.24
+1069,Marie Moss,DataSci,Senior,6.9,ml,"Java,pytest,design,architecture,dl",APAC,108141.24
+1070,Megan Cunningham,DataSci,Mid,2.7,tensorflow,"ux,Snowflake,DataEngineer,Airflow",EU,61913.09
+1071,Stephen Donovan,Backend,Junior,1.5,Java,"MVC,sketch,Terraform,cloud",EU,35183.72
+1072,Joseph Castro,DevOps,Mid,3.7,Lambda,"IICS,sketch,nlp,C#",APAC,54930.64
+1073,Michelle Faulkner,Frontend,Mid,4.8,Angular,"cypress,Kubernetes,ASP.NET,Docker",EU,76027.07
+1074,Gregory Sullivan,DataSci,Principal,14.0,SQL,"cicd,QA-Manual,Perl",India,148660.13
+1075,Angelica Ryan,FullStack,Junior,0.8,JavaScript,"C#,django,AWS,sketch,MLOps",NA,38076.06
+1076,Dakota Castillo,DataSci,Lead,13.3,Tableau/PowerBI,"Databricks,Snowflake,sketch,IICS,Node.js",NA,224523.42
+1077,Kimberly Carter,QA,Junior,0.7,QA-Manual,"dl,Angular,cypress,selenium",NA,60475.44
+1078,Robert Phillips,Backend,Junior,1.9,.NET,"Business Objects,PostgreSQL,DataEngineer,ux",EU,31563.82
+1079,Laura Clark,Mobile,Lead,10.3,vue,"cicd,Angular,Databricks,documentation",EU,178630.61
+1080,Mark Smith,Support,Mid,2.4,documentation,"HTML,Spark,springboot",APAC,52968.91
+1081,Lauren Phillips,DevOps,Principal,17.0,Lambda,"Perl,sklearn,OracleDB",NA,306133.41
+1082,Julie Francis,PM,Junior,1.3,requirements,"React,CSS,Airflow",India,35417.33
+1083,Harry Quinn,UI/UX,Mid,3.7,CSS,"Java,Perl,vue,Business Objects",EU,87336.64
+1084,Patricia Barton,Architect,Junior,0.5,domain,"HTML,Tableau/PowerBI,Databricks",India,21345.58
+1085,Brandon Hall,Mobile,Senior,7.9,Java,"Kubernetes,jmeter,tensorflow,Control-M",India,100097.68
+1086,Warren Wheeler,Mobile,Junior,0.7,vue,"SQL Server,DataEngineer,Docker",APAC,34426.11
+1087,Allison Jennings,Mobile,Senior,7.9,Python,"AJAX,ux,Control-M,dl,PL/SQL",EU,152195.98
+1088,Heather Dean,PM,Mid,3.6,product,"GCP,springboot,JavaScript,OracleDB,Python",NA,119833.65
+1089,Cynthia Vasquez,Support,Senior,7.7,OracleDB,"product,JavaScript,jmeter",India,76360.88
+1090,Duane Swanson,DevOps,Lead,9.1,Terraform,"SQL Server,sketch,documentation",India,128945.37
+1091,Melinda Fowler,Architect,Lead,13.8,architecture,"ux,selenium,Terraform,sketch,nlp",India,113080.33
+1092,Samuel Whitaker,PM,Principal,16.3,requirements,"HTML,QA-Manual,k8s,tensorflow",NA,345213.29
+1093,Andrea Avila,UI/UX,Lead,9.7,HTML,"DataScientist,Angular,PL/SQL,GCP,pytorch",India,111205.13
+1094,Kathleen Miller,UI/UX,Junior,0.5,figma,"ui,PostgreSQL,sketch,Azure",NA,63688.21
+1095,Brittany Page,PM,Mid,4.4,documentation,"Databricks,SQL Server,EC2,AWS,Spark",India,62365.42
+1096,Daniel Chapman,QA,Principal,19.3,selenium,"GCP,sketch,Docker,HTML,Kubernetes",India,171073.11
+1097,Dawn Mendez,DataEng,Lead,11.0,AWS,"Ado.net,Business Objects,SQL,pytorch,jmeter",EU,148737.69
+1098,Ryan Scott,UI/UX,Lead,11.3,CSS,"architecture,Python,HTML,JavaScript",EU,163308.91
+1099,Tammy Ruiz,MLE,Junior,0.7,tensorflow,"ux,product,Angular",India,25710.4
+1100,Taylor Beasley,DevOps,Lead,13.2,Azure,"Airflow,OracleDB,Node.js",APAC,142739.74
+1101,Michael Ryan,DataEng,Principal,12.0,Python,"Spark,vue,Tableau/PowerBI,Angular,Control-M",NA,252448.27
+1102,Theresa Chavez,Support,Mid,4.1,OracleDB,"figma,Java,QA-Manual,documentation",EU,81058.64
+1103,Catherine Oneill,Architect,Lead,10.8,cloud,"Lambda,architecture,DataScientist",APAC,145229.23
+1104,Courtney Klein,Frontend,Lead,8.5,Node.js,"vue,Tableau/PowerBI,Docker",APAC,150854.43
+1105,Susan Martin,PM,Mid,4.0,domain,"cloud,Control-M,Angular",India,41182.4
+1106,Dr. Jeffrey White,Support,Mid,2.9,SQL,"DataEngineer,ui,nlp,IICS,TypeScript",EU,62271.04
+1107,Alex Kelly,Mobile,Principal,13.4,React,"PostgreSQL,Azure,tensorflow,MVC",India,160003.84
+1108,Steven Bowers,DevOps,Junior,1.5,Kubernetes,"Airflow,Terraform,JavaScript,Angular,OracleDB",EU,54019.69
+1109,Luis Jones,Backend,Senior,6.4,Java,"Control-M,architecture,design,jmeter",APAC,108463.12
+1110,Vickie Cooper,Architect,Lead,12.9,DevOps,"design,GCP,selenium,Control-M,springboot",NA,262307.97
+1111,Amy Davis,Support,Junior,1.7,OracleDB,"k8s,selenium,ml,Python,Docker",NA,39576.0
+1112,Jeffrey Clark,Support,Principal,17.4,SQL,"DataEngineer,AWS,sklearn",NA,323033.09
+1113,Anita Harper,PM,Lead,14.1,documentation,"pyspark,pytest,SQL Server,requirements",NA,215588.35
+1114,Robin Bradford,UI/UX,Principal,12.3,design,"pytest,OracleDB,Docker,Tableau/PowerBI",EU,216237.75
+1115,William Bonilla,Mobile,Senior,6.8,Python,"architecture,Angular,dl,HTML",APAC,103376.01
+1116,Aaron Brock,Support,Lead,14.8,OracleDB,"React,azuredevops,Docker,documentation",NA,255473.93
+1117,Brenda Young,Architect,Junior,0.8,domain,"ASP.NET,Databricks,DataScientist,GCP",EU,54009.66
+1118,Kara Montes,Mobile,Junior,1.0,Angular,"vue,product,dl,Kafka,Java",India,31966.37
+1119,Timothy Snyder,Architect,Junior,1.5,GCP,"springboot,DataScientist,Lambda,SQL,cicd",EU,33000.88
+1120,Noah Myers,QA,Lead,14.0,SQL,"pyspark,Python,Perl,sklearn",APAC,132225.88
+1121,Cynthia Lopez,DevOps,Mid,3.2,Docker,"TypeScript,S3,IICS,DataEngineer,AWS",NA,112944.12
+1122,Edgar Bowman,QA,Principal,15.1,SQL,"OracleDB,DataScientist,Azure,S3",APAC,163690.35
+1123,Mitchell Saunders,Backend,Principal,12.3,PostgreSQL,"Tableau/PowerBI,Control-M,Ado.net,C#,jmeter",EU,278405.81
+1124,Dr. Abigail Yates,DataEng,Lead,8.5,GCP,"documentation,Python,pytorch",APAC,129122.45
+1125,Thomas Peters,Support,Principal,15.0,OracleDB,"ml,AWS,SQL",APAC,164647.88
+1126,Lauren Cross,Architect,Junior,0.6,AWS,"design,OracleDB,AJAX",EU,51240.31
+1127,Victoria Jones,Mobile,Junior,1.6,Angular,"Databricks,S3,QA-Automation,TypeScript",APAC,43466.21
+1128,Paul Johnson,FullStack,Principal,19.4,Python,"domain,figma,ux,DataScientist,tensorflow",EU,223763.17
+1129,Tracy Brown,Architect,Principal,16.1,k8s,"dl,TypeScript,pyspark",NA,339215.12
+1130,Kelly Wilson,PM,Junior,1.4,requirements,"AJAX,product,ui",EU,32518.0
+1131,Michael Novak,Support,Senior,5.3,Control-M,"pytest,pytorch,SQL Server,JavaScript",India,106146.91
+1132,Adam Ward,Mobile,Senior,5.4,Java,"ml,Python,AJAX",EU,101537.16
+1133,Jose Steele,Backend,Mid,4.9,django,"SQL Server,ASP.NET,sklearn,azuredevops,documentation",India,52323.11
+1134,Jillian Ayers,FullStack,Senior,6.4,Java,"sketch,Control-M,TypeScript",India,109886.54
+1135,David Gallegos,Support,Mid,4.3,OracleDB,"Angular,SQL Server,GCP",India,46268.05
+1136,Jessica Freeman,FullStack,Lead,11.4,SQL,"ml,jmeter,cicd,sketch,ux",APAC,145105.49
+1137,Clayton Anderson,FullStack,Lead,12.9,Angular,"cicd,vue,DataScientist,cloud,JavaScript",APAC,157234.96
+1138,Teresa Watkins,PM,Principal,15.2,design,"PL/SQL,ASP.NET,TypeScript",NA,312681.35
+1139,Julie Gonzales,Backend,Principal,13.7,PostgreSQL,"AJAX,product,azuredevops,sketch",APAC,198598.97
+1140,Connor Martin,PM,Junior,1.5,documentation,"architecture,DataEngineer,Node.js,Python",APAC,43640.17
+1141,Daniel Rose,QA,Senior,6.7,selenium,"pyspark,MVC,MLOps,sketch",NA,139674.26
+1142,Patricia Barrett,DataSci,Principal,15.5,Python,"selenium,EC2,HTML,DevOps",NA,309550.35
+1143,Andrew Mercer,Frontend,Mid,3.1,CSS,"Kafka,domain,Java,azuredevops",EU,56641.7
+1144,Wesley Miller,DataEng,Mid,3.7,Snowflake,"Business Objects,sketch,DataScientist",EU,80523.11
+1145,Jonathan Camacho,UI/UX,Lead,13.4,figma,"nlp,ml,documentation,Terraform",India,106056.47
+1146,Chelsey Fields,DevOps,Principal,18.3,Azure,"Python,Kubernetes,selenium,QA-Manual,SQL",APAC,161566.88
+1147,Sarah Stewart,Mobile,Lead,14.3,Python,"IICS,nlp,DataEngineer,pyspark",India,107802.58
+1148,David Cain,MLE,Junior,1.0,sklearn,"Ado.net,QA-Manual,AWS",EU,30807.93
+1149,Melissa Green,DataSci,Principal,13.1,Python,"TypeScript,product,vue,SQL,sketch",EU,241173.25
+1150,Hannah Yu,Backend,Mid,3.9,django,"cloud,Azure,Snowflake,DataScientist",NA,109395.68
+1151,Jeffrey Bowers,Mobile,Principal,12.8,vue,"JavaScript,django,sklearn,PL/SQL",APAC,208957.96
+1152,Heather Hernandez,Support,Senior,5.8,OracleDB,"selenium,requirements,cicd,Lambda",NA,167539.91
+1153,Kimberly Cohen,QA,Junior,0.6,QA-Automation,"DataEngineer,EC2,cypress,Databricks",India,38478.56
+1154,Brian Hoffman,UI/UX,Mid,4.2,design,"azuredevops,Lambda,.NET",India,56634.43
+1155,Timothy Day,Architect,Mid,4.3,architecture,"django,k8s,React",EU,62115.85
+1156,Kelsey Peck,Backend,Mid,4.6,Kafka,"k8s,C#,Databricks,ux,GCP",NA,95711.31
+1157,Jonathan Tate,PM,Senior,5.9,product,"React,Terraform,AWS,GCP",APAC,77374.0
+1158,Bryan Bolton,Backend,Junior,1.4,django,"HTML,Kubernetes,selenium,Tableau/PowerBI",India,24083.51
+1159,Jason Brown,Support,Mid,2.5,Control-M,"jmeter,Terraform,springboot,product",India,46143.52
+1160,Samuel Larson,DevOps,Lead,14.5,Terraform,"Snowflake,tensorflow,GCP,AWS",APAC,112301.73
+1161,Robert Mcdonald,PM,Mid,4.2,requirements,"ui,jmeter,Kafka,QA-Manual",India,63860.19
+1162,Ricky Escobar,Backend,Senior,5.8,SQL,"PostgreSQL,springboot,Databricks,documentation,azuredevops",APAC,81538.58
+1163,Dr. Jeffrey Nichols,Architect,Mid,4.5,Terraform,"cloud,pytest,Azure",EU,93618.52
+1164,Paula Sanchez,Backend,Principal,18.8,SQL,"MVC,pytorch,TypeScript,IICS,architecture",India,171962.88
+1165,Ernest Jones,Backend,Lead,13.7,SQL,"AWS,dl,sklearn",India,115924.72
+1166,Christian Palmer,Architect,Junior,1.9,architecture,"AWS,Control-M,DevOps,ui,MVC",India,34438.52
+1167,Andrew Nixon,QA,Senior,8.2,QA-Automation,"vue,architecture,MLOps,Python",NA,136582.67
+1168,Michelle Walker,DataSci,Senior,8.9,ml,"selenium,DataScientist,Python,architecture",NA,131039.78
+1169,Michael Carpenter,Frontend,Lead,12.2,CSS,"k8s,design,JavaScript,product",NA,189204.77
+1170,Joshua Collier,Frontend,Senior,8.0,TypeScript,"ASP.NET,jmeter,DataScientist,QA-Automation",NA,154161.14
+1171,Jordan Peters,Frontend,Lead,8.2,vue,"MLOps,PL/SQL,design",India,143062.86
+1172,Brian Garcia,DataSci,Lead,10.2,ml,"Airflow,GCP,Docker",EU,154075.28
+1173,Amanda Mccormick,PM,Senior,7.9,product,"MLOps,Node.js,Tableau/PowerBI",APAC,97797.6
+1174,James Gomez,Backend,Mid,2.4,Java,"Lambda,Tableau/PowerBI,documentation,product,SQL",India,51858.11
+1175,Andrea Powell,DevOps,Senior,6.3,DevOps,"Azure,pyspark,ui,documentation",EU,107356.1
+1176,Ronald Crawford,DevOps,Lead,8.8,GCP,"AJAX,cypress,Perl,Kafka,Terraform",India,113226.09
+1177,Morgan Ho,Architect,Lead,8.2,Terraform,"pyspark,IICS,tensorflow",EU,164036.9
+1178,Lauren Mckay,Mobile,Junior,1.0,React,"dl,tensorflow,Node.js",NA,36659.79
+1179,Jeanne Levine,DevOps,Senior,7.8,cicd,"documentation,CSS,PostgreSQL,sklearn,MLOps",NA,154641.99
+1180,Shannon Contreras,QA,Senior,8.5,cypress,"MVC,QA-Automation,Business Objects",India,98519.07
+1181,Dennis Osborne,Frontend,Lead,10.9,TypeScript,"Node.js,DataEngineer,Spark",NA,266643.53
+1182,Joan Berger,PM,Lead,13.0,requirements,"IICS,ux,JavaScript,QA-Automation",NA,184634.78
+1183,Michael Reyes,QA,Mid,2.4,pytest,"OracleDB,django,Docker,QA-Manual,figma",NA,76848.36
+1184,Judith Garcia,UI/UX,Junior,0.7,CSS,"AWS,DevOps,MVC,Business Objects",NA,54768.68
+1185,Jamie Hernandez,DevOps,Senior,6.1,azuredevops,"S3,Databricks,PostgreSQL,pyspark",India,71013.35
+1186,Jill Young,PM,Lead,14.2,domain,"Python,architecture,pytest,k8s,tensorflow",NA,241961.97
+1187,John Brown,Support,Principal,15.7,Business Objects,"S3,GCP,Node.js,Perl,Snowflake",APAC,210247.73
+1188,Sabrina Moore,Backend,Lead,13.5,OracleDB,"design,JavaScript,QA-Manual,Tableau/PowerBI",EU,167896.42
+1189,Felicia Sanchez,Frontend,Principal,12.1,HTML,"SQL Server,Docker,MVC,springboot",India,146492.61
+1190,Victoria James,DataEng,Lead,11.6,Python,"MVC,GCP,springboot,SQL Server",NA,212813.56
+1191,Heidi May,QA,Lead,13.1,pytest,"tensorflow,Business Objects,IICS",India,101917.14
+1192,Stephanie Oconnor,FullStack,Mid,3.1,Node.js,"sketch,tensorflow,JavaScript,jmeter,SQL",India,55726.92
+1193,Brandon Terry,QA,Principal,18.3,QA-Manual,"k8s,Angular,jmeter,Perl,EC2",EU,248306.24
+1194,Frederick Murphy,PM,Senior,6.0,documentation,"MVC,Ado.net,Tableau/PowerBI,azuredevops",EU,119341.71
+1195,Veronica Lopez,Support,Mid,4.3,Control-M,"cloud,EC2,PostgreSQL",NA,84974.63
+1196,Charles Fitzgerald,FullStack,Junior,1.0,React,"dl,ux,IICS,sklearn,DevOps",EU,37897.59
+1197,John Knight,Support,Principal,13.1,Business Objects,"selenium,design,Java",India,187676.66
+1198,Andre Payne,Architect,Junior,0.6,AWS,"PostgreSQL,DataEngineer,pyspark",NA,43208.29
+1199,Hannah Mason,Mobile,Mid,4.9,vue,"tensorflow,C#,Python,DevOps",India,47793.02

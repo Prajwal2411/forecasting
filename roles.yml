@@ -1,0 +1,40 @@
+roles:
+  Backend Engineer:
+    skills:
+      [python, java, django, fastapi, springboot, nodejs, flask, golang, kotlin, microservices, rest, grpc, sql, mysql, postgresql, mongodb, redis, kubernetes, docker, spring, hibernate, aws, gcp, azure, api design, terraform, observability]
+
+  Frontend / Full-Stack Engineer:
+    skills:
+      [react, css, html, js, ts, angular, vue, nextjs, nuxt, svelte, bootstrap, tailwindcss, storybook, webpack, vite, rollup, deno, graphql, redux, zustand, html5, accessibility, responsive design, cross-browser]
+
+  Data Engineer / Analytics Engineer:
+    skills:
+      [pyspark, databricks, sql, airflow, azure, aws, snowflake, redshift, bigquery, kafka, kafka-streams, dagster, dbt, glue, hadoop, scala, flink, elasticsearch, spark, data modeling, etl, lakehouse]
+
+  Data Scientist / ML Engineer:
+    skills:
+      [ml, python, dl, nlp, sklearn, pytorch, tensorflow, pandas, numpy, xgboost, lightgbm, catboost, r, tfx, mlflow, explainable ai, computer vision, reinforcement learning, feature engineering, statistics, probability, semantic search]
+
+  DevOps / Cloud Engineer:
+    skills:
+      [docker, k8s, terraform, cicd, azuredevops, ansible, chef, puppet, helm, gitops, cloud formation, aws, gcp, azure, observability, prometheus, grafana, datadog, new relic, istio, service mesh, vault, security, networking, pki]
+
+  QA / Test Automation Engineer:
+    skills:
+      [selenium, pytest, jmeter, cypress, postman, rest assured, robot framework, playwright, watir, soapui, loadrunner, gatling, qtp, testng, mocha, chai, jasmine, coverage, quality assurance, smoke, regression, integration, performance testing]
+
+  Product Manager:
+    skills:
+      [product, roadmap, planning, stakeholder management, prioritization, discovery, user research, market analysis, requirements, storytelling, go-to-market, metrics, OKRs, agile, scrum, kanban, business case, pricing strategy, competitor analysis]
+
+  Solution Architect / Tech Lead:
+    skills:
+      [architecture, design, cloud, enterprise architecture, systems design, microservices, domain-driven design, security, scalability, performance, infrastructure, integration, api gateway, event-driven, soa, reference architecture, app modernization, observability]
+
+  UX / UI Designer:
+    skills:
+      [figma, sketch, ui, ux, design systems, prototyping, adobe xd, user research, usability testing, interaction design, accessibility, persona creation, storyboarding, illustration, visual design, typography, branding]
+
+  Business Analyst / Domain SME:
+    skills:
+      [requirements, domain, documentation, stakeholder management, process mapping, uml, bpmn, sql, analytics, data storytelling, workshops, functional specs, gap analysis, agile ceremonies, traceability, kpi definition, enterprise process, system integration]

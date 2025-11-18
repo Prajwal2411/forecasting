@@ -1,0 +1,301 @@
+assignment_id,project_id,employee_id,role_on_project,assigned_start_date,assigned_end_date_planned,allocation_pct,tech_stack,bill_rate_per_month,is_backfilled,notice_period_days
+222,5056,1000,UI/UX-Junior,2027-05-10,2027-12-10,1.0,"S3,azuredevops,TypeScript,PostgreSQL",3697.0,False,45
+190,5034,1002,UI/UX-Principal,2026-09-29,2027-03-29,1.0,"IICS,pyspark,dl,GCP",24369.0,True,30
+208,5029,1003,Frontend-Junior,2024-03-31,2024-11-14,1.0,"jmeter,product,AJAX,vue",5102.0,True,45
+5,5023,1003,Frontend-Junior,2025-08-03,2025-09-10,1.0,"Control-M,MLOps,JavaScript,Kubernetes,pytorch,ASP.NET,Angular",3887.0,False,45
+296,5030,1003,Frontend-Junior,2027-10-08,2027-12-31,1.0,"nlp,PL/SQL,jmeter,pytest,Ado.net,TypeScript,IICS",5268.0,True,30
+31,5053,1005,Support-Mid,2025-06-25,2026-01-15,1.0,"vue,Node.js,JavaScript,React,Terraform",12832.0,True,30
+147,5039,1007,PM-Senior,2025-02-05,2025-03-17,1.0,"product,ml,Ado.net,QA-Automation,PostgreSQL",17075.0,False,30
+287,5021,1007,PM-Senior,2027-05-16,2027-08-28,1.0,"SQL Server,ux,pytest,DevOps",13893.0,True,45
+251,5022,1008,DataSci-Junior,2026-02-16,2026-03-26,1.0,"ux,azuredevops,PostgreSQL",6464.0,False,30
+121,5025,1008,DataSci-Junior,2026-10-07,2026-11-06,1.0,"ui,Kubernetes,Databricks,jmeter,Kafka",6639.0,False,30
+59,5038,1009,MLE-Lead,2024-06-27,2025-01-10,1.0,"pytest,Kubernetes,product,.NET,cypress,domain",30581.0,False,90
+194,5024,1009,MLE-Lead,2027-07-18,2027-10-23,1.0,"JavaScript,vue,pyspark,.NET,DataScientist,jmeter",29268.0,False,90
+264,5009,1010,DataSci-Junior,2028-05-13,2028-06-29,1.0,"cicd,django,ui,springboot,Kubernetes,architecture",6379.0,False,60
+104,5036,1012,Frontend-Principal,2026-11-22,2027-10-01,1.0,".NET,dl,DataScientist,TypeScript",25464.0,False,60
+177,5031,1013,Backend-Mid,2025-02-27,2025-05-27,1.0,".NET,figma,Databricks,design,nlp,cicd",8341.0,False,90
+183,5030,1013,Backend-Mid,2026-11-02,2028-03-09,0.5,"PostgreSQL,Azure,QA-Automation,JavaScript,Databricks",8374.0,True,60
+160,5009,1013,Backend-Mid,2027-09-09,2027-12-26,0.5,"DataEngineer,CSS,MLOps,EC2,design,DataScientist",7283.0,False,60
+32,5050,1014,MLE-Mid,2025-12-14,2026-04-02,1.0,"PL/SQL,Business Objects,Control-M,.NET,Lambda",13778.0,False,60
+117,5021,1014,MLE-Mid,2027-05-23,2027-07-02,0.5,"figma,springboot,Spark,GCP,React",14448.0,False,30
+114,5030,1014,MLE-Mid,2027-06-22,2028-01-20,0.5,"JavaScript,Terraform,SQL,MVC,DataScientist",13754.0,False,45
+102,5049,1015,DataSci-Principal,2024-11-19,2025-03-18,1.0,"Airflow,PostgreSQL,pyspark",43219.0,True,60
+115,5030,1015,DataSci-Principal,2027-07-17,2027-11-05,1.0,"AJAX,OracleDB,springboot,Kafka",34084.0,True,30
+53,5008,1016,DataSci-Junior,2027-08-07,2028-02-05,0.5,"AWS,SQL Server,django,architecture,sklearn,Angular",5063.0,False,45
+260,5047,1016,DataSci-Junior,2027-12-11,2028-01-16,0.5,"azuredevops,ASP.NET,Terraform,pytest,selenium,Spark,AWS",4963.0,True,45
+134,5032,1017,UI/UX-Senior,2023-09-14,2023-12-23,1.0,"DataScientist,Business Objects,QA-Automation,sketch,S3",10985.0,True,30
+130,5021,1017,UI/UX-Senior,2027-07-29,2027-09-20,1.0,"nlp,Spark,DataScientist,Business Objects",8868.0,True,60
+150,5049,1018,DataSci-Junior,2024-10-13,2024-11-27,1.0,"SQL Server,IICS,React,SQL",5431.0,False,30
+298,5031,1019,DataSci-Principal,2025-02-28,2025-06-09,1.0,"cicd,Ado.net,sklearn",39452.0,True,45
+198,5023,1020,Backend-Principal,2023-12-07,2025-09-25,0.5,"Docker,DataScientist,dl,SQL,Kubernetes",32447.0,True,90
+215,5044,1020,Backend-Principal,2025-07-04,2025-08-15,0.5,"DevOps,DataEngineer,DataScientist,Snowflake",28159.0,True,45
+26,5058,1021,DataSci-Mid,2023-08-17,2025-04-05,1.0,"design,pyspark,.NET,MLOps,MVC,Databricks,architecture",11218.0,True,60
+131,5037,1021,DataSci-Mid,2026-02-25,2026-03-30,1.0,"PostgreSQL,PL/SQL,S3,sklearn,JavaScript,Airflow,cicd",8172.0,False,90
+166,5012,1022,Architect-Junior,2023-10-01,2024-04-02,1.0,"EC2,DataEngineer,GCP,Azure,Databricks",8503.0,True,30
+235,5042,1022,Architect-Junior,2027-07-28,2027-09-03,1.0,"Business Objects,dl,documentation,springboot,Ado.net,.NET",6185.0,True,60
+20,5012,1023,FullStack-Principal,2024-05-20,2024-07-08,1.0,"pytorch,k8s,jmeter,React",50093.0,True,30
+191,5015,1023,FullStack-Principal,2027-02-12,2027-06-03,1.0,"HTML,SQL Server,django",51094.0,True,30
+247,5034,1024,Architect-Junior,2026-12-23,2027-02-18,1.0,"DataEngineer,domain,JavaScript,Control-M",3271.0,False,90
+7,5058,1025,Architect-Senior,2023-08-27,2023-12-13,1.0,"Angular,ASP.NET,SQL,Airflow,Azure,Tableau/PowerBI,sklearn",13984.0,False,30
+51,5038,1026,Frontend-Principal,2024-10-06,2025-02-02,1.0,"SQL,DevOps,architecture,pytest,cicd,domain,django",27123.0,False,90
+245,5028,1026,Frontend-Principal,2026-07-02,2026-09-04,1.0,"Kafka,.NET,Lambda,pytest,nlp",39658.0,False,90
+259,5029,1027,PM-Senior,2024-09-07,2025-03-08,1.0,"django,Tableau/PowerBI,vue,AWS",18348.0,False,30
+48,5047,1028,DataSci-Lead,2027-01-25,2027-02-27,1.0,"vue,jmeter,k8s",17505.0,True,60
+226,5013,1029,Mobile-Lead,2026-05-18,2026-06-30,1.0,"Snowflake,ASP.NET,Azure,Lambda,Airflow,MVC,pytest",26176.0,False,90
+241,5042,1029,Mobile-Lead,2026-12-16,2027-11-18,0.5,"PL/SQL,SQL Server,jmeter",22324.0,True,45
+289,5042,1029,Mobile-Lead,2027-06-18,2027-11-13,0.5,"selenium,product,tensorflow,QA-Manual",27588.0,False,60
+178,5005,1030,QA-Principal,2024-04-14,2024-11-03,1.0,"pytorch,Java,JavaScript",20837.0,False,45
+175,5002,1030,QA-Principal,2025-06-11,2026-11-10,1.0,"Docker,QA-Manual,design",25276.0,True,45
+135,5049,1031,QA-Senior,2025-04-12,2025-05-16,1.0,"Terraform,MLOps,Kafka",14394.0,False,60
+168,5051,1031,QA-Senior,2025-07-05,2025-12-30,1.0,"ui,documentation,Angular",14264.0,False,45
+202,5055,1031,QA-Senior,2026-05-06,2027-01-17,1.0,"CSS,MVC,pytorch",12687.0,False,30
+19,5009,1032,Backend-Mid,2027-03-19,2027-09-01,1.0,"PL/SQL,sketch,Java",11949.0,True,90
+205,5015,1033,QA-Junior,2026-11-20,2027-04-20,1.0,"pytorch,product,DataEngineer,Tableau/PowerBI,cicd",3674.0,True,30
+96,5011,1034,Architect-Mid,2026-05-03,2026-07-23,1.0,"pyspark,cloud,IICS,jmeter",14260.0,True,30
+246,5011,1036,Support-Senior,2025-12-15,2026-03-09,1.0,"vue,pyspark,AWS,JavaScript",25625.0,False,45
+256,5007,1036,Support-Senior,2026-08-11,2027-03-28,1.0,"springboot,EC2,DataEngineer,Docker,figma",32051.0,False,60
+169,5057,1037,Mobile-Mid,2025-11-18,2026-04-28,1.0,"Kafka,ASP.NET,tensorflow,Angular,requirements,pytest,QA-Manual",13259.0,True,45
+185,5054,1037,Mobile-Mid,2027-03-23,2027-07-03,1.0,"jmeter,sklearn,pytest,QA-Manual,Node.js,Angular",13086.0,True,45
+22,5023,1039,Mobile-Lead,2023-11-16,2024-05-02,0.5,"cicd,pytorch,Kubernetes,jmeter,DataEngineer",35269.0,False,60
+155,5058,1039,Mobile-Lead,2024-02-18,2024-12-16,0.5,"nlp,QA-Manual,jmeter,OracleDB",34793.0,True,45
+108,5013,1040,Backend-Mid,2026-04-07,2026-06-07,1.0,"pyspark,.NET,EC2,IICS,JavaScript",8918.0,True,45
+283,5058,1041,DevOps-Mid,2023-07-19,2025-02-20,0.5,"Ado.net,product,Terraform,Node.js,AJAX,S3",21153.0,True,90
+181,5012,1041,DevOps-Mid,2024-03-13,2024-07-02,0.5,"AJAX,OracleDB,Databricks,Airflow,Control-M,Java,cloud",20273.0,False,45
+244,5047,1041,DevOps-Mid,2027-12-08,2028-01-30,1.0,"Angular,PostgreSQL,SQL Server,cypress,sketch,Azure,ui",18275.0,True,90
+77,5035,1042,Mobile-Lead,2025-09-27,2025-12-09,1.0,"Terraform,cicd,AWS,pytorch,ux,dl",45473.0,True,30
+88,5029,1043,Frontend-Junior,2024-01-27,2024-02-28,1.0,"pytorch,Perl,jmeter,DataEngineer",4628.0,False,60
+39,5007,1043,Frontend-Junior,2025-12-12,2027-06-21,0.5,"CSS,Node.js,Kubernetes,Azure,Docker",4715.0,True,30
+93,5014,1043,Frontend-Junior,2026-02-10,2026-08-15,0.5,"Snowflake,figma,ui",5796.0,False,45
+126,5054,1043,Frontend-Junior,2026-03-05,2027-11-02,0.5,"AWS,Ado.net,S3,MLOps",5785.0,False,45
+3,5004,1044,QA-Principal,2027-02-11,2027-04-03,1.0,"SQL Server,Node.js,CSS,Ado.net,React",31657.0,True,30
+189,5019,1045,DevOps-Junior,2024-01-24,2024-03-21,1.0,"Business Objects,HTML,azuredevops,C#,IICS,Terraform",4571.0,True,45
+275,5028,1045,DevOps-Junior,2025-05-09,2026-01-02,1.0,"Docker,domain,CSS,nlp,Lambda,Python,C#",4695.0,False,30
+57,5031,1046,Architect-Principal,2025-01-25,2025-04-10,1.0,"Docker,springboot,TypeScript,cloud,QA-Automation,PL/SQL,Kafka",23355.0,True,90
+274,5057,1046,Architect-Principal,2026-10-01,2027-03-14,1.0,"Angular,tensorflow,Airflow,Control-M",25605.0,False,60
+95,5016,1046,Architect-Principal,2027-07-04,2028-03-30,0.5,"Java,documentation,dl,cloud,Node.js,Python,pytorch",25530.0,True,60
+79,5036,1046,Architect-Principal,2028-03-27,2029-02-01,0.5,"SQL Server,dl,Java",22375.0,False,90
+174,5032,1047,DataSci-Principal,2024-03-09,2024-04-22,1.0,"sklearn,SQL,DataScientist,GCP,DevOps",41693.0,False,60
+13,5045,1047,DataSci-Principal,2025-02-25,2025-05-03,1.0,"IICS,nlp,product",37451.0,True,30
+30,5001,1047,DataSci-Principal,2025-11-15,2026-02-19,1.0,"jmeter,ASP.NET,Spark,DataScientist,Azure,azuredevops,requirements",43699.0,False,30
+243,5032,1048,Mobile-Mid,2024-03-29,2024-05-13,1.0,"Docker,MLOps,C#",12276.0,True,90
+204,5017,1048,Mobile-Mid,2025-07-15,2026-01-01,0.5,"Control-M,AWS,IICS,jmeter",12380.0,False,60
+238,5022,1048,Mobile-Mid,2025-08-17,2026-03-27,0.5,"requirements,cloud,Node.js",13491.0,False,60
+87,5006,1048,Mobile-Mid,2027-05-26,2027-07-08,1.0,"Kafka,Perl,Node.js,Terraform,cloud,ml,tensorflow",12700.0,False,90
+162,5021,1049,QA-Lead,2027-08-10,2028-01-12,1.0,"JavaScript,PostgreSQL,azuredevops,MLOps,ui,domain,cypress",13992.0,False,45
+43,5047,1051,Mobile-Junior,2027-03-21,2027-10-09,1.0,"Snowflake,jmeter,Spark,MLOps,AJAX,.NET,Python",4452.0,False,90
+54,5041,1053,MLE-Lead,2027-01-01,2027-02-17,1.0,"AJAX,TypeScript,React,.NET,nlp",19506.0,True,90
+276,5038,1054,DataEng-Junior,2023-12-31,2025-01-18,1.0,"pytorch,GCP,cloud",7642.0,True,90
+74,5003,1054,DataEng-Junior,2028-03-16,2028-08-30,1.0,"design,springboot,PL/SQL,CSS",6562.0,False,30
+188,5037,1056,Mobile-Mid,2025-07-18,2026-03-24,1.0,"AJAX,DataEngineer,PL/SQL,HTML,AWS,CSS",6092.0,True,90
+268,5016,1056,Mobile-Mid,2028-09-04,2028-10-24,1.0,"QA-Automation,Azure,C#,Kafka",5480.0,True,90
+240,5027,1058,FullStack-Senior,2023-08-31,2023-11-14,1.0,"k8s,cypress,ASP.NET",19394.0,False,90
+220,5030,1058,FullStack-Senior,2026-10-25,2027-04-18,0.5,"Tableau/PowerBI,design,Docker,SQL,cloud",18426.0,False,30
+167,5033,1058,FullStack-Senior,2026-11-08,2027-09-26,0.5,"MVC,MLOps,vue,Java,TypeScript,product,DataScientist",18021.0,False,45
+137,5011,1058,FullStack-Senior,2026-12-02,2027-02-02,0.5,".NET,Spark,OracleDB,PL/SQL,C#,pytest",18992.0,True,45
+56,5026,1059,DevOps-Principal,2026-04-27,2026-12-31,1.0,"CSS,tensorflow,Perl,pytest",26862.0,True,60
+223,5042,1059,DevOps-Principal,2027-08-28,2027-11-23,1.0,"IICS,Airflow,k8s,cypress,pytorch,QA-Automation,jmeter",25557.0,False,60
+110,5025,1060,Frontend-Junior,2026-02-08,2026-09-06,1.0,"TypeScript,Ado.net,DevOps,sketch",5789.0,True,90
+46,5045,1061,Architect-Junior,2024-09-28,2025-07-04,1.0,"Azure,MVC,.NET,design,ml,Perl,AJAX",6408.0,True,60
+258,5039,1062,Mobile-Mid,2024-11-29,2025-01-05,1.0,"DevOps,OracleDB,Business Objects",10960.0,False,90
+124,5013,1062,Mobile-Mid,2026-03-23,2026-05-22,1.0,"pytorch,Java,Terraform,MLOps",13898.0,True,30
+221,5023,1063,Mobile-Mid,2024-09-27,2025-07-08,1.0,"nlp,Python,QA-Automation",15881.0,True,60
+156,5050,1063,Mobile-Mid,2025-12-20,2026-12-01,1.0,"design,Airflow,Snowflake,product,cicd,PostgreSQL",16541.0,True,45
+228,5007,1063,Mobile-Mid,2027-04-11,2027-07-28,1.0,"Azure,Kafka,figma,requirements,Java,Python",18219.0,True,90
+11,5047,1064,PM-Senior,2027-07-25,2027-12-03,1.0,"Kafka,django,Kubernetes,SQL Server,Node.js,HTML",13622.0,False,30
+231,5025,1066,Architect-Mid,2025-01-31,2025-07-13,1.0,"ux,ml,documentation",22126.0,True,45
+195,5026,1066,Architect-Mid,2026-05-20,2028-05-30,1.0,"documentation,OracleDB,nlp",16213.0,False,45
+219,5031,1067,DevOps-Lead,2025-03-27,2025-05-28,1.0,"figma,TypeScript,sklearn,cloud,GCP,Control-M,ASP.NET",25076.0,False,60
+158,5059,1067,DevOps-Lead,2025-10-14,2025-12-04,1.0,"architecture,Ado.net,Databricks,Angular,MVC,jmeter",20101.0,True,90
+128,5033,1067,DevOps-Lead,2027-04-22,2028-03-09,1.0,"azuredevops,Angular,JavaScript,selenium,ml,Terraform",28590.0,False,45
+98,5049,1068,PM-Mid,2025-01-11,2025-03-31,1.0,"Control-M,Python,AJAX,Ado.net,Airflow,AWS",6709.0,False,90
+297,5035,1070,DataSci-Mid,2024-10-14,2025-02-22,0.5,"DataScientist,HTML,Terraform,nlp,pytorch,Angular",11275.0,False,60
+52,5035,1070,DataSci-Mid,2024-11-27,2025-06-27,0.5,"springboot,AWS,SQL Server,HTML,pytest,Spark,.NET",8715.0,True,60
+27,5043,1070,DataSci-Mid,2028-05-05,2028-07-10,1.0,"Lambda,DevOps,DataScientist,dl",8976.0,False,45
+299,5032,1071,Backend-Junior,2023-05-18,2023-09-12,1.0,"SQL Server,GCP,Python,ui",4776.0,False,30
+239,5028,1071,Backend-Junior,2026-07-14,2026-08-14,1.0,"figma,DataEngineer,Docker,product",4445.0,False,90
+233,5012,1073,Frontend-Mid,2024-10-20,2024-11-25,1.0,"cicd,Control-M,C#,design,ml,SQL",10084.0,True,45
+122,5035,1073,Frontend-Mid,2025-08-10,2025-12-01,1.0,"Perl,sketch,ASP.NET,figma,SQL",10980.0,True,60
+140,5003,1073,Frontend-Mid,2027-08-21,2028-07-13,0.5,"Perl,ux,SQL,SQL Server,dl,ASP.NET",12635.0,False,90
+10,5010,1073,Frontend-Mid,2028-04-13,2028-09-25,0.5,"Databricks,PL/SQL,Python,EC2,Kubernetes",10907.0,False,30
+16,5048,1073,Frontend-Mid,2028-08-31,2028-10-06,0.5,"domain,DataEngineer,Kubernetes",13541.0,False,90
+218,5020,1074,DataSci-Principal,2023-06-18,2023-09-29,1.0,"django,ASP.NET,QA-Manual,Node.js,nlp,MLOps",23018.0,True,45
+161,5020,1074,DataSci-Principal,2023-10-30,2023-11-29,1.0,"sklearn,IICS,domain,GCP",23142.0,False,90
+81,5006,1074,DataSci-Principal,2025-07-21,2025-09-24,1.0,"cloud,pyspark,Databricks,SQL Server,Control-M,documentation,Perl",21596.0,False,45
+284,5015,1074,DataSci-Principal,2027-07-05,2027-08-05,1.0,"SQL Server,ux,springboot,PL/SQL,Angular,ml,ASP.NET",19661.0,True,60
+285,5041,1075,FullStack-Junior,2026-06-25,2026-10-19,1.0,"Docker,GCP,architecture,TypeScript,Control-M",6081.0,False,90
+78,5044,1077,QA-Junior,2025-04-12,2025-09-13,1.0,"Control-M,Ado.net,Docker,.NET",7721.0,True,45
+164,5053,1078,Backend-Junior,2025-02-12,2025-08-12,1.0,"Business Objects,SQL Server,GCP,Tableau/PowerBI",5281.0,False,30
+64,5018,1078,Backend-Junior,2026-07-05,2026-08-06,1.0,"Spark,React,nlp",5163.0,False,45
+170,5048,1078,Backend-Junior,2028-12-06,2029-01-13,1.0,"Ado.net,C#,domain,.NET",5048.0,False,45
+76,5018,1079,Mobile-Lead,2025-08-17,2026-07-09,0.5,"IICS,tensorflow,sketch,AWS",29032.0,False,60
+216,5013,1079,Mobile-Lead,2026-06-02,2026-07-02,0.5,"django,Control-M,DataEngineer,ml,Kafka,sketch,CSS",24286.0,True,90
+271,5048,1081,DevOps-Principal,2027-03-14,2028-04-05,1.0,"vue,Ado.net,jmeter,ui,Kafka,requirements",43168.0,True,30
+280,5031,1082,PM-Junior,2025-01-22,2025-05-06,1.0,"EC2,DataScientist,pytest,S3,Tableau/PowerBI,azuredevops,Ado.net",5388.0,True,60
+265,5003,1082,PM-Junior,2026-11-12,2027-12-14,1.0,"JavaScript,cloud,k8s,.NET,OracleDB,django",6352.0,True,90
+44,5004,1083,UI/UX-Mid,2026-12-25,2027-04-06,1.0,"design,requirements,GCP,Perl,QA-Manual,tensorflow,QA-Automation",15818.0,False,60
+200,5049,1084,Architect-Junior,2024-09-25,2025-04-21,0.5,"architecture,azuredevops,nlp,JavaScript",3665.0,False,45
+248,5039,1084,Architect-Junior,2024-12-31,2025-02-19,0.5,"GCP,Angular,SQL Server,k8s",3748.0,False,45
+237,5054,1085,Mobile-Senior,2025-10-07,2027-06-21,0.5,"Spark,jmeter,SQL",17338.0,False,90
+252,5030,1085,Mobile-Senior,2027-02-05,2027-12-03,0.5,"C#,Lambda,MLOps,documentation,JavaScript,DataEngineer,django",13435.0,False,45
+118,5057,1086,Mobile-Junior,2026-06-10,2027-01-27,1.0,"AWS,DataEngineer,cicd,design,ml,product",5394.0,False,60
+152,5057,1086,Mobile-Junior,2027-05-28,2027-07-18,1.0,"GCP,Databricks,C#,PostgreSQL",5057.0,False,90
+1,5045,1088,PM-Mid,2024-11-25,2025-05-08,1.0,"Python,Node.js,vue",21283.0,False,30
+212,5049,1089,Support-Senior,2024-12-05,2025-01-18,1.0,"Airflow,design,jmeter,pyspark,Kubernetes,.NET",13964.0,False,60
+55,5017,1089,Support-Senior,2025-05-12,2025-09-22,1.0,"jmeter,DevOps,QA-Manual,Lambda,DataEngineer,.NET,Perl",12496.0,False,60
+40,5002,1091,Architect-Lead,2024-09-14,2026-11-23,0.5,"DataScientist,dl,ml,domain",17933.0,True,90
+63,5004,1091,Architect-Lead,2026-10-22,2027-02-12,0.5,"Lambda,Python,JavaScript,Angular",16521.0,True,30
+17,5000,1091,Architect-Lead,2027-05-01,2027-07-02,1.0,"C#,React,SQL,PostgreSQL",20009.0,True,60
+75,5012,1092,PM-Principal,2023-10-08,2024-12-03,1.0,"QA-Manual,documentation,PL/SQL,TypeScript,ux",62866.0,False,60
+203,5043,1092,PM-Principal,2028-04-22,2028-08-12,1.0,"Perl,Kafka,Databricks,EC2,pytest",52669.0,False,60
+227,5029,1094,UI/UX-Junior,2024-10-30,2025-01-02,1.0,"product,CSS,React,Spark,SQL,OracleDB",8261.0,False,30
+70,5059,1094,UI/UX-Junior,2025-10-12,2025-11-25,1.0,"cicd,SQL Server,Java,ui,DevOps",11367.0,True,90
+80,5030,1094,UI/UX-Junior,2027-04-20,2028-03-28,1.0,"selenium,Kubernetes,product",10198.0,False,30
+153,5004,1095,PM-Mid,2026-10-07,2026-11-24,1.0,"DevOps,EC2,SQL Server,Kubernetes,Control-M,MVC",8089.0,False,60
+105,5036,1095,PM-Mid,2027-04-06,2027-08-13,1.0,"dl,pytest,azuredevops",11407.0,True,90
+144,5032,1096,QA-Principal,2023-09-06,2024-04-20,1.0,"DataScientist,requirements,Python,domain,pytest,cloud",30247.0,False,90
+8,5051,1096,QA-Principal,2025-02-28,2025-04-11,1.0,"cicd,Lambda,springboot",27687.0,False,90
+182,5003,1097,DataEng-Lead,2027-04-16,2028-06-27,1.0,"Python,TypeScript,QA-Manual,AWS,Kubernetes,selenium,ux",24882.0,True,30
+196,5007,1098,UI/UX-Lead,2027-02-05,2027-03-21,1.0,"Java,Kafka,sklearn,GCP",25979.0,False,60
+192,5014,1099,MLE-Junior,2024-06-18,2025-12-28,1.0,"Airflow,product,QA-Automation,OracleDB,requirements,Databricks",3692.0,False,60
+225,5025,1099,MLE-Junior,2026-08-22,2026-09-27,1.0,"Angular,DataScientist,ml,DevOps",4367.0,True,60
+262,5008,1100,DevOps-Lead,2026-08-18,2028-03-28,1.0,"SQL,nlp,cloud",22652.0,False,30
+201,5015,1101,DataEng-Principal,2026-02-15,2026-09-11,1.0,"springboot,pytest,tensorflow,S3,PostgreSQL,requirements",39155.0,True,90
+21,5021,1101,DataEng-Principal,2026-12-11,2027-11-12,1.0,"figma,springboot,DataScientist,PostgreSQL,ASP.NET",40218.0,True,90
+206,5020,1102,Support-Mid,2023-07-22,2023-10-04,1.0,"Java,DataScientist,Spark,SQL Server,DevOps,IICS",13595.0,False,30
+270,5043,1102,Support-Mid,2027-06-16,2027-10-26,1.0,"Docker,requirements,Business Objects,design",14711.0,True,90
+236,5002,1103,Architect-Lead,2027-03-05,2027-04-10,1.0,"HTML,sklearn,Spark",20761.0,False,45
+211,5033,1103,Architect-Lead,2027-12-25,2028-06-24,1.0,"MLOps,SQL,Docker,sketch",25301.0,True,30
+171,5048,1103,Architect-Lead,2028-08-17,2028-11-03,1.0,"azuredevops,OracleDB,AWS,Business Objects,S3,pytorch,Azure",26326.0,False,30
+109,5032,1105,PM-Mid,2023-09-07,2024-02-09,1.0,"cloud,Lambda,architecture,documentation,Java",5205.0,True,60
+254,5001,1105,PM-Mid,2026-01-25,2026-03-01,1.0,"cypress,ml,nlp",6626.0,True,90
+279,5053,1106,Support-Mid,2025-03-05,2026-01-18,0.5,"Node.js,Azure,HTML,Angular,django,Airflow,Terraform",9554.0,False,45
+12,5053,1106,Support-Mid,2025-09-27,2026-01-10,0.5,"figma,GCP,SQL Server,QA-Automation,Java,product",9043.0,True,60
+281,5043,1106,Support-Mid,2028-02-02,2028-09-30,1.0,"selenium,ux,Tableau/PowerBI,ASP.NET,sklearn,QA-Manual,documentation",8567.0,False,90
+172,5007,1107,Mobile-Principal,2025-12-03,2027-02-16,1.0,"GCP,pyspark,Terraform",21661.0,True,60
+173,5059,1108,DevOps-Junior,2025-03-24,2025-07-04,1.0,"ASP.NET,k8s,PostgreSQL,SQL,IICS,QA-Automation,DevOps",9150.0,False,60
+261,5043,1109,Backend-Senior,2027-04-09,2028-04-13,0.5,"S3,AWS,PL/SQL",15238.0,True,30
+28,5000,1109,Backend-Senior,2027-04-24,2027-07-13,0.5,"Java,sklearn,PostgreSQL,Perl,Snowflake,.NET,jmeter",16992.0,True,30
+184,5039,1110,Architect-Lead,2024-12-11,2025-02-11,1.0,"DevOps,Business Objects,design,Docker,PostgreSQL,domain",44222.0,False,30
+163,5058,1110,Architect-Lead,2025-02-12,2025-04-02,1.0,"django,pyspark,cicd",47848.0,True,60
+207,5029,1111,Support-Junior,2024-03-09,2024-10-04,1.0,"Spark,IICS,MLOps,CSS",6988.0,False,45
+146,5006,1111,Support-Junior,2025-10-18,2026-09-26,0.5,"nlp,azuredevops,MLOps",6665.0,True,60
+107,5051,1111,Support-Junior,2025-12-16,2026-01-26,0.5,"Azure,vue,JavaScript,nlp,Terraform",5186.0,True,60
+94,5033,1112,Support-Principal,2027-10-06,2028-06-08,1.0,"Lambda,tensorflow,React,product,ml,Spark,jmeter",50353.0,True,30
+154,5004,1113,PM-Lead,2027-01-14,2027-03-16,1.0,"ux,Angular,dl",29382.0,False,60
+37,5048,1113,PM-Lead,2027-03-28,2027-10-29,1.0,"Terraform,DataEngineer,azuredevops,Kafka,pyspark,pytest,EC2",28323.0,False,45
+71,5034,1114,UI/UX-Principal,2027-02-15,2027-04-21,1.0,"tensorflow,Tableau/PowerBI,AWS",35568.0,True,90
+4,5057,1115,Mobile-Senior,2024-12-16,2026-10-22,0.5,"JavaScript,domain,SQL Server",12951.0,False,60
+97,5045,1115,Mobile-Senior,2025-01-13,2025-04-17,0.5,".NET,AWS,TypeScript,Node.js",13251.0,False,60
+67,5040,1115,Mobile-Senior,2025-07-08,2026-08-28,0.5,"SQL Server,cloud,ux,OracleDB",13559.0,False,60
+91,5050,1115,Mobile-Senior,2026-09-24,2026-12-06,0.5,"selenium,C#,Kafka,SQL Server",16388.0,False,30
+100,5001,1116,Support-Lead,2025-11-01,2025-12-07,1.0,"JavaScript,pytest,MLOps",41795.0,True,45
+180,5024,1116,Support-Lead,2027-07-06,2027-11-03,1.0,"MVC,PL/SQL,Business Objects,jmeter,Python",44235.0,False,30
+116,5033,1117,Architect-Junior,2027-09-04,2028-06-14,0.5,"AWS,QA-Manual,Snowflake,CSS,PL/SQL",6840.0,False,90
+50,5021,1117,Architect-Junior,2028-01-22,2028-02-25,0.5,"Docker,Spark,PL/SQL",9873.0,True,30
+127,5027,1118,Mobile-Junior,2023-08-22,2023-11-26,1.0,"PL/SQL,django,SQL Server,Business Objects",4802.0,False,30
+85,5055,1118,Mobile-Junior,2026-06-21,2026-09-30,1.0,"Lambda,Python,nlp",4002.0,False,45
+288,5047,1118,Mobile-Junior,2026-11-16,2027-05-02,0.5,"MLOps,architecture,design,IICS",4708.0,False,60
+230,5055,1118,Mobile-Junior,2027-01-10,2027-02-27,0.5,"TypeScript,HTML,django,ux",5106.0,False,30
+68,5002,1121,DevOps-Mid,2024-09-22,2024-12-05,1.0,"Tableau/PowerBI,Business Objects,AJAX,EC2,DevOps",17366.0,True,90
+209,5052,1121,DevOps-Mid,2025-01-02,2025-03-09,1.0,"product,Lambda,HTML,ASP.NET",19165.0,False,60
+193,5056,1121,DevOps-Mid,2029-02-01,2029-04-16,1.0,"S3,design,ASP.NET,Azure,documentation,pyspark",14691.0,False,60
+84,5026,1122,QA-Principal,2028-06-17,2028-09-13,1.0,"Ado.net,CSS,Lambda",27634.0,False,60
+24,5049,1124,DataEng-Lead,2025-04-18,2025-05-22,1.0,"Databricks,Kubernetes,Terraform",17299.0,False,90
+72,5001,1124,DataEng-Lead,2025-08-22,2025-11-24,1.0,"Business Objects,.NET,React,dl,ASP.NET,GCP",18279.0,False,90
+89,5042,1124,DataEng-Lead,2027-07-11,2027-09-06,1.0,"Control-M,Perl,sketch,requirements,cloud,Java,AWS",18034.0,True,90
+14,5041,1125,Support-Principal,2027-02-14,2027-04-16,1.0,"Java,django,SQL Server,C#,Angular,selenium,springboot",22585.0,True,30
+199,5055,1128,FullStack-Principal,2027-03-25,2027-05-04,1.0,"Ado.net,springboot,Business Objects",31911.0,False,45
+136,5016,1130,PM-Junior,2026-06-03,2026-09-26,1.0,"AJAX,Business Objects,ml,Lambda,Spark,jmeter,Docker",4209.0,False,30
+242,5015,1130,PM-Junior,2026-10-29,2027-01-07,1.0,"AWS,sketch,QA-Automation,Snowflake,springboot,Ado.net,documentation",4525.0,False,30
+33,5003,1133,Backend-Mid,2026-09-30,2027-03-02,1.0,"OracleDB,EC2,Lambda,pytorch,PostgreSQL,ml",6635.0,False,60
+119,5021,1133,Backend-Mid,2027-09-12,2028-02-10,1.0,"PostgreSQL,ui,MVC,SQL Server,Perl",9102.0,False,60
+83,5033,1134,FullStack-Senior,2026-09-18,2027-01-02,1.0,"PostgreSQL,React,AWS,Java,dl,DevOps",16955.0,False,90
+139,5033,1135,Support-Mid,2027-11-07,2028-05-03,1.0,"Control-M,ui,Spark,domain,pyspark,ux,figma",5855.0,False,30
+82,5004,1138,PM-Principal,2027-01-05,2027-03-03,1.0,"SQL Server,jmeter,sketch,Docker",40234.0,True,45
+35,5035,1140,PM-Junior,2024-08-25,2025-09-15,1.0,"OracleDB,MVC,PL/SQL,AJAX,Kafka",6311.0,False,60
+300,5043,1140,PM-Junior,2028-08-10,2028-10-05,1.0,"sklearn,product,Business Objects,pytest,requirements,Java,Kubernetes",5588.0,True,45
+165,5035,1141,QA-Senior,2024-11-22,2025-08-08,1.0,"PL/SQL,sklearn,SQL,PostgreSQL",24417.0,False,60
+197,5012,1142,DataSci-Principal,2024-09-17,2024-11-09,0.5,"pytorch,sketch,cypress,cicd",47190.0,False,90
+249,5045,1142,DataSci-Principal,2024-10-06,2025-04-28,0.5,"IICS,EC2,pytest",45650.0,False,90
+214,5020,1143,Frontend-Mid,2023-07-28,2023-11-03,1.0,"Kubernetes,Azure,AWS,Snowflake",9832.0,False,90
+266,5050,1143,Frontend-Mid,2026-08-09,2026-11-14,1.0,"Kafka,Kubernetes,pyspark,cloud,DataEngineer,jmeter",9303.0,False,45
+66,5041,1144,DataEng-Mid,2025-12-19,2026-12-13,1.0,"sketch,vue,PL/SQL",10409.0,True,60
+149,5043,1144,DataEng-Mid,2027-07-02,2028-07-18,1.0,"Docker,MLOps,Angular,TypeScript,Tableau/PowerBI,PL/SQL,Terraform",13977.0,False,30
+132,5020,1145,UI/UX-Lead,2023-05-24,2023-07-06,1.0,"JavaScript,Docker,domain",18866.0,False,45
+73,5044,1146,DevOps-Principal,2025-03-06,2025-04-12,1.0,"Ado.net,vue,django,Airflow",20867.0,True,60
+282,5000,1146,DevOps-Principal,2027-02-12,2027-05-13,1.0,"GCP,Lambda,cloud,OracleDB,azuredevops,domain,HTML",24727.0,True,90
+176,5029,1147,Mobile-Lead,2023-11-26,2025-03-27,1.0,"cloud,MVC,django,PostgreSQL",17176.0,False,30
+6,5009,1147,Mobile-Lead,2027-04-12,2028-10-14,1.0,"Spark,HTML,SQL,ui,Control-M,PostgreSQL,tensorflow",17357.0,False,45
+90,5006,1148,MLE-Junior,2026-07-08,2027-01-11,1.0,"Java,CSS,DevOps,azuredevops,Perl,vue",4889.0,False,60
+138,5037,1149,DataSci-Principal,2024-09-05,2025-03-02,1.0,"QA-Manual,OracleDB,springboot,selenium",42934.0,True,30
+111,5029,1150,Backend-Mid,2024-02-05,2025-04-07,1.0,"DevOps,Docker,MVC,Kubernetes,pytorch",14704.0,True,90
+253,5003,1150,Backend-Mid,2028-05-31,2028-10-05,1.0,"Tableau/PowerBI,EC2,Databricks,Airflow",16642.0,True,45
+269,5019,1151,Mobile-Principal,2024-04-20,2024-05-20,1.0,"azuredevops,DataScientist,TypeScript,pyspark,cicd",33197.0,False,60
+58,5009,1151,Mobile-Principal,2026-09-17,2027-04-29,1.0,"DataScientist,cloud,dl,pytest",30600.0,False,60
+86,5056,1151,Mobile-Principal,2027-07-14,2027-10-31,1.0,"React,HTML,QA-Manual,domain,.NET",27762.0,True,45
+157,5007,1154,UI/UX-Mid,2025-11-06,2026-12-17,1.0,"Terraform,PostgreSQL,django,DataScientist",8282.0,True,30
+232,5035,1156,Backend-Mid,2024-07-14,2024-12-06,1.0,"DataEngineer,ux,GCP,dl,pytest,cloud",16629.0,False,30
+2,5031,1156,Backend-Mid,2025-04-26,2025-05-28,1.0,"Control-M,Spark,IICS,nlp,documentation,Java",16084.0,True,60
+213,5002,1156,Backend-Mid,2025-09-07,2026-09-03,1.0,"Perl,cicd,jmeter,Docker",15037.0,False,90
+229,5025,1159,Support-Mid,2025-08-24,2026-07-01,1.0,"Docker,pyspark,jmeter,IICS,azuredevops",6588.0,True,90
+273,5032,1161,PM-Mid,2024-03-16,2024-05-24,1.0,"Tableau/PowerBI,Node.js,figma,MLOps,QA-Manual",10330.0,False,60
+293,5006,1161,PM-Mid,2026-04-20,2027-02-15,1.0,"Ado.net,Control-M,MVC",8019.0,True,90
+277,5056,1162,Backend-Senior,2027-01-29,2028-01-07,1.0,"OracleDB,Business Objects,C#",12258.0,False,30
+112,5017,1164,Backend-Principal,2023-10-22,2024-06-13,1.0,"springboot,Angular,TypeScript,design,jmeter",24055.0,False,30
+120,5002,1164,Backend-Principal,2026-07-26,2027-01-17,0.5,"Kubernetes,Lambda,pytorch",24372.0,True,90
+255,5033,1164,Backend-Principal,2026-09-28,2028-04-03,0.5,"azuredevops,JavaScript,pytorch,S3,pytest",29551.0,True,45
+291,5051,1165,Backend-Lead,2024-01-15,2024-11-15,1.0,"ui,k8s,CSS,springboot,QA-Manual",17362.0,False,45
+25,5049,1165,Backend-Lead,2025-03-13,2025-05-07,1.0,"AWS,Node.js,ux,jmeter,domain",14686.0,True,60
+92,5015,1165,Backend-Lead,2025-11-27,2026-12-07,1.0,"sklearn,Tableau/PowerBI,documentation,product,SQL Server",17800.0,False,90
+18,5042,1165,Backend-Lead,2027-05-27,2027-09-21,1.0,"SQL Server,PL/SQL,product",19299.0,False,30
+133,5046,1166,Architect-Junior,2025-10-20,2025-12-18,1.0,"Databricks,AWS,DataScientist,Azure,Spark,domain",5407.0,True,90
+159,5055,1166,Architect-Junior,2027-03-20,2027-05-01,1.0,"Azure,Control-M,figma",4460.0,False,90
+143,5049,1167,QA-Senior,2025-03-23,2025-05-01,0.5,"ui,MLOps,Azure",22684.0,True,45
+41,5037,1167,QA-Senior,2025-04-01,2025-11-15,0.5,"design,Perl,React,OracleDB",23841.0,False,90
+263,5035,1168,DataSci-Senior,2024-08-11,2024-11-22,1.0,"figma,jmeter,k8s,Control-M,.NET,tensorflow,documentation",20384.0,True,45
+145,5010,1168,DataSci-Senior,2027-05-30,2028-05-24,1.0,"ui,AWS,sklearn,tensorflow,Terraform,MVC,cicd",18719.0,True,30
+49,5058,1169,Frontend-Lead,2024-11-17,2025-01-19,1.0,"DataScientist,QA-Manual,design,ui,azuredevops,Angular",31322.0,False,30
+141,5047,1170,Frontend-Senior,2027-12-28,2028-02-01,1.0,"MLOps,DevOps,pytorch,design",25920.0,True,45
+142,5014,1171,Frontend-Lead,2025-08-05,2026-01-24,1.0,"ASP.NET,IICS,SQL Server,jmeter",18364.0,False,90
+294,5028,1173,PM-Senior,2025-02-03,2025-12-09,0.5,"Azure,DataScientist,Angular,design",16823.0,False,30
+62,5049,1173,PM-Senior,2025-04-18,2025-05-20,0.5,"Java,Node.js,ml,JavaScript",17616.0,False,60
+34,5011,1174,Backend-Mid,2026-06-26,2026-10-07,1.0,"PL/SQL,architecture,GCP",7408.0,True,90
+234,5040,1176,DevOps-Lead,2025-04-07,2025-10-16,1.0,"pytest,Angular,Java",18385.0,False,90
+38,5045,1178,Mobile-Junior,2025-04-07,2025-06-30,1.0,"azuredevops,JavaScript,OracleDB,dl,Databricks,AWS,.NET",5805.0,False,90
+36,5024,1178,Mobile-Junior,2027-05-05,2027-10-21,1.0,"GCP,dl,TypeScript,React,Azure",6205.0,True,60
+61,5023,1179,DevOps-Senior,2023-11-27,2025-03-14,0.5,"product,Tableau/PowerBI,nlp,SQL Server",26813.0,True,30
+125,5039,1179,DevOps-Senior,2024-10-26,2025-03-26,0.5,"MLOps,PostgreSQL,DataEngineer,selenium,HTML,Java",21545.0,False,30
+23,5025,1179,DevOps-Senior,2024-12-20,2026-02-09,0.5,"product,HTML,design,dl,DevOps,AJAX,Java",26006.0,False,90
+101,5014,1179,DevOps-Senior,2025-08-15,2026-06-16,0.5,"Python,Snowflake,S3,SQL Server,documentation",27811.0,False,90
+272,5036,1179,DevOps-Senior,2027-02-15,2028-09-15,1.0,"product,figma,DevOps,ASP.NET,Airflow,nlp",25089.0,False,90
+267,5020,1180,QA-Senior,2023-10-20,2023-11-29,1.0,"django,C#,MVC,requirements,.NET,tensorflow,k8s",15609.0,True,60
+292,5025,1180,QA-Senior,2024-12-17,2025-10-24,0.5,"DataScientist,design,Lambda,SQL,Node.js,Spark",12572.0,True,60
+15,5059,1180,QA-Senior,2025-06-10,2025-10-23,0.5,"k8s,sketch,documentation,sklearn",17918.0,False,30
+186,5023,1181,Frontend-Lead,2024-03-07,2025-10-11,1.0,"Snowflake,azuredevops,DataEngineer,GCP,Tableau/PowerBI,DataScientist",38207.0,True,60
+290,5053,1182,PM-Lead,2024-05-21,2025-12-14,1.0,"vue,PostgreSQL,Databricks,QA-Manual,domain,cicd,k8s",32926.0,False,90
+250,5009,1182,PM-Lead,2028-03-05,2028-07-31,1.0,"Azure,Spark,JavaScript,sklearn,MLOps",23236.0,True,30
+99,5056,1182,PM-Lead,2028-09-25,2029-02-20,1.0,"cloud,Perl,IICS,architecture",29321.0,True,45
+257,5019,1184,UI/UX-Junior,2024-03-14,2024-05-06,1.0,"QA-Manual,JavaScript,IICS,SQL Server,Ado.net,Angular,Kafka",7524.0,False,90
+123,5037,1185,DevOps-Senior,2025-03-24,2025-12-02,0.5,"Kafka,jmeter,azuredevops,Java,cloud,Python",11167.0,False,60
+113,5014,1185,DevOps-Senior,2025-05-05,2025-08-10,0.5,"nlp,vue,JavaScript",9156.0,False,30
+45,5025,1185,DevOps-Senior,2026-09-10,2026-10-31,0.5,"AWS,S3,Python,Snowflake,django,C#",12026.0,False,45
+42,5034,1185,DevOps-Senior,2026-10-14,2026-12-22,0.5,"Airflow,nlp,.NET,GCP,PostgreSQL",12341.0,False,30
+47,5056,1185,DevOps-Senior,2027-01-11,2028-10-25,1.0,"EC2,C#,ui,selenium",12550.0,True,60
+151,5016,1186,PM-Lead,2027-01-06,2028-07-01,0.5,"Azure,pyspark,azuredevops,vue,ui",42436.0,True,60
+286,5000,1186,PM-Lead,2027-04-20,2027-07-16,0.5,"JavaScript,requirements,AJAX,figma",37646.0,False,90
+210,5058,1187,Support-Principal,2023-08-14,2024-11-19,1.0,"figma,vue,pyspark",32461.0,True,30
+69,5005,1188,Backend-Lead,2024-10-23,2024-12-26,1.0,"sketch,Spark,selenium,ASP.NET,Kafka,Terraform",29770.0,True,90
+295,5034,1190,DataEng-Lead,2027-01-12,2027-03-22,1.0,"ux,Airflow,requirements,k8s,PostgreSQL,Spark,S3",38499.0,False,45
+278,5021,1191,QA-Lead,2027-07-22,2027-12-11,0.5,"SQL,springboot,MLOps,Kafka,Azure,Spark,cicd",18670.0,True,30
+106,5021,1191,QA-Lead,2027-09-16,2027-11-09,0.5,"documentation,AJAX,pytest,selenium,nlp,QA-Manual,React",17961.0,True,90
+224,5005,1192,FullStack-Mid,2023-11-22,2024-04-08,1.0,".NET,product,Java,QA-Manual,Python,sketch",9792.0,True,60
+103,5005,1193,QA-Principal,2023-03-21,2023-08-26,1.0,"Control-M,jmeter,nlp,tensorflow,Kubernetes",42952.0,True,90
+217,5045,1195,Support-Mid,2024-11-29,2025-06-30,1.0,"Business Objects,Node.js,figma",11529.0,False,30
+9,5033,1195,Support-Mid,2027-05-16,2028-04-16,1.0,"vue,Kafka,Business Objects,JavaScript,Perl,domain",12432.0,True,90
+187,5023,1196,FullStack-Junior,2023-11-26,2024-08-03,1.0,"Control-M,pyspark,dl",6833.0,False,30
+60,5001,1197,Support-Principal,2025-12-11,2026-01-26,1.0,"OracleDB,PL/SQL,EC2,ui",30335.0,False,30
+29,5042,1197,Support-Principal,2027-07-05,2027-08-05,1.0,"azuredevops,vue,GCP,ASP.NET",29378.0,True,45
+129,5038,1198,Architect-Junior,2024-10-26,2025-03-17,0.5,"ux,Perl,MVC,QA-Manual",7677.0,False,60
+65,5022,1198,Architect-Junior,2024-12-18,2025-03-16,0.5,"pyspark,Lambda,dl,AWS,cicd,.NET",6469.0,False,60
+148,5032,1199,Mobile-Mid,2024-03-18,2024-04-28,1.0,"Lambda,cicd,Docker,tensorflow,HTML,vue",8618.0,False,30
+179,5034,1199,Mobile-Mid,2026-12-11,2027-02-28,1.0,"Lambda,DataEngineer,pytest,OracleDB,django,MLOps",6378.0,False,90

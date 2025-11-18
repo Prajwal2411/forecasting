@@ -1,0 +1,128 @@
+{
+  "project_title": "Data Platform Modernization for FinTech Cards",
+  "domain": "FinTech",
+  "tech_requirements": [
+    {
+      "technology": "SQL",
+      "priority": 2,
+      "min_exp_years": 2.0
+    },
+    {
+      "technology": "AWS",
+      "priority": 3,
+      "min_exp_years": 2.0
+    },
+    {
+      "technology": "Azure",
+      "priority": 3,
+      "min_exp_years": 4.0
+    },
+    {
+      "technology": "Spark",
+      "priority": 3,
+      "min_exp_years": 3.0
+    },
+    {
+      "technology": "Kafka",
+      "priority": 3,
+      "min_exp_years": 3.0
+    },
+    {
+      "technology": "Airflow",
+      "priority": 2,
+      "min_exp_years": 3.0
+    },
+    {
+      "technology": "Snowflake",
+      "priority": 3,
+      "min_exp_years": 2.0
+    },
+    {
+      "technology": "DevOps",
+      "priority": 2,
+      "min_exp_years": 2.0
+    },
+    {
+      "technology": "MLOps",
+      "priority": 2,
+      "min_exp_years": 2.0
+    },
+    {
+      "technology": "DataEngineer",
+      "priority": 2,
+      "min_exp_years": 3.0
+    }
+  ],
+  "roles_needed": [
+    {
+      "role_family": "DataEng",
+      "count": 5,
+      "level_mix": {
+        "Junior": 0.15,
+        "Mid": 0.35,
+        "Senior": 0.35,
+        "Lead": 0.12,
+        "Principal": 0.03
+      }
+    },
+    {
+      "role_family": "DevOps",
+      "count": 3,
+      "level_mix": {
+        "Junior": 0.15,
+        "Mid": 0.35,
+        "Senior": 0.35,
+        "Lead": 0.12,
+        "Principal": 0.03
+      }
+    },
+    {
+      "role_family": "Backend",
+      "count": 1,
+      "level_mix": {
+        "Junior": 0.15,
+        "Mid": 0.35,
+        "Senior": 0.35,
+        "Lead": 0.12,
+        "Principal": 0.03
+      }
+    },
+    {
+      "role_family": "MLE",
+      "count": 1,
+      "level_mix": {
+        "Junior": 0.15,
+        "Mid": 0.35,
+        "Senior": 0.35,
+        "Lead": 0.12,
+        "Principal": 0.03
+      }
+    },
+    {
+      "role_family": "PM",
+      "count": 1,
+      "level_mix": {
+        "Senior": 0.5,
+        "Lead": 0.4,
+        "Principal": 0.1
+      }
+    },
+    {
+      "role_family": "QA",
+      "count": 1,
+      "level_mix": {
+        "Junior": 0.25,
+        "Mid": 0.45,
+        "Senior": 0.25,
+        "Lead": 0.05
+      }
+    }
+  ],
+  "start_quarter": "2025Q1",
+  "end_quarter": "2025Q3",
+  "budget_ceiling": 750000.0,
+  "constraints": {
+    "region": "India",
+    "onsite_percent": 50
+  }
+}
